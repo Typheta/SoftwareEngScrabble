@@ -1,4 +1,2 @@
 # SE-2024Spring-Team-10
-Qwvontae Graves
-Sadiq Toussaint
-Jose Espino
+Scrabble project for software engineering class
